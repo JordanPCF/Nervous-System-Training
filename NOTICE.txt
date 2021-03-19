@@ -1,0 +1,2 @@
+Using code from World Famous Electroncs LLC, Brooklyn, New York in line with their copyright notice. 
+https://github.com/WorldFamousElectronics/PulseSensorPlayground/blob/master/examples/Getting_BPM_to_Monitor/Getting_BPM_to_Monitor.ino
